@@ -1,10 +1,10 @@
 {
   "name": "whipe-me",
-  "version": "0.0.0",
+  "version": "0.0.6",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "install": "node setup.js"
+    "postinstall": "node setup.js"
   },
   "files": [
     "setup.js",
