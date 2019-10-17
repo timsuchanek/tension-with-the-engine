@@ -1,0 +1,13 @@
+{
+  "name": "whipe-me",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "install": "node setup.js"
+  },
+  "files": [
+    "setup.js",
+    "some-engine"
+  ]
+}
